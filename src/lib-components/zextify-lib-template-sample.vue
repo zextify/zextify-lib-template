@@ -62,13 +62,13 @@ export default /*#__PURE__*/{
   </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
   .zextify-lib-template-sample {
     display: block;
     width: 400px;
     margin: 25px auto;
     border: 1px solid #ccc;
-    background: #eaeaea;
+    background: $bg;
     text-align: center;
     padding: 25px;
   }
